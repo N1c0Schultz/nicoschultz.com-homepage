@@ -1,0 +1,100 @@
+User-agent: *
+Allow: /
+AI-Training: disallow
+
+# Block comprehensive list of scrapers and AI bots
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: WebReaper
+Disallow: /
+
+User-agent: larbin
+Disallow: /
+
+User-agent: EmailCollector
+Disallow: /
+
+User-agent: ScrapyBot
+Disallow: /
+
+User-agent: Python-urllib
+Disallow: /
+
+User-agent: Python-requests
+Disallow: /
+
+User-agent: curl
+Disallow: /
+
+User-agent: Wget
+Disallow: /
+
+# Sitemap
+Sitemap: https://nicoschultz.com/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
+
+# Disallow common bot targets
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+Disallow: /*.log$
+
+# LEGAL NOTICE & COPYRIGHT PROTECTION
+# ===================================
+# © 2025 Nicholas Schultz. All Rights Reserved.
+# 
+# UNAUTHORIZED USE PROHIBITED: This website and all its contents, including but not limited 
+# to text, images, code, design elements, and any intellectual property contained herein, 
+# are protected by copyright law and other applicable laws. Any unauthorized use, reproduction, 
+# distribution, modification, or exploitation of this website or any portion thereof is 
+# strictly prohibited and constitutes a violation of applicable laws.
+# 
+# AI/BOT SCRAPING PROHIBITED: The use of automated systems, bots, crawlers, or any artificial 
+# intelligence systems to scrape, extract, copy, or utilize any content from this website 
+# for training purposes, data collection, or any other purpose is expressly forbidden without 
+# prior written consent.
+# 
+# LEGAL ACTION: Unauthorized use may result in civil and/or criminal liability. We reserve 
+# the right to pursue all available legal remedies against violators, including but not 
+# limited to injunctive relief, monetary damages, and attorney fees.
+# 
+# For authorized use inquiries, contact: contact@nicoschultz.com
