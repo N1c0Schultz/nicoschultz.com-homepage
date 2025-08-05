@@ -1,10 +1,10 @@
-# 🌟 Nicholas Schultz Professional Portfolio
+# Nicholas Schultz Professional Portfolio
 
 This website demonstrates how thoughtful engineering and user-centered design create something both beautiful and functional. Built to represent a decade of IT leadership authentically, the site mirrors Nicholas's professional philosophy: sophisticated solutions don't need complexity.
 
 **Live Site: [https://nico-schultz-site.ns-4ef.more.dev](https://nico-schultz-site.ns-4ef.workers.dev)**
 
-## 🎯 The Vision Behind the Build
+## Behind the Build
 
 Every meaningful project begins with a focused question: How do you authentically represent years of IT leadership when attention spans measure in seconds? The answer emerged through clarity, performance, and genuine substance rather than flashy animations or trending frameworks.
 
@@ -12,7 +12,7 @@ Nicholas built this portfolio to showcase how he approaches complex challenges. 
 
 Consider the hero section. An authentic professional photo sits alongside interactive certification badges. Click a PMP credential and see the actual certificate. This transparency builds trust immediately while avoiding generic stock imagery that communicates nothing meaningful.
 
-## 🎨 Design Philosophy in Action
+## Design Philosophy
 
 The visual approach draws from modern minimalism while maintaining warmth necessary for professional connections. Clean typography meets purposeful white space. Interactive elements respond without overwhelming. The color palette creates focus rather than distraction through blacks, whites, and subtle creams.
 
@@ -27,7 +27,7 @@ The services section solves a common portfolio problem: providing depth without 
 - **IT Strategy Consulting** - Harvard-trained strategic planning for digital transformation
 - **Digital Transformation** - End-to-end modernization with measurable outcomes
 
-## 🛠️ Technical Architecture That Serves Purpose
+## 🛠️ Technical Architecture
 
 ### Modern Stack with Purpose
 The technology stack prioritizes substance over trendiness. HTML5 and CSS3 provide semantic markup with modern layout techniques. Vanilla JavaScript eliminates framework bloat while maintaining focused functionality. Bootstrap 5 offers strategic grid usage without over-dependence. Cloudflare Workers deliver serverless architecture for global performance.
@@ -46,7 +46,7 @@ catch (error) {
 }
 ```
 
-## 📊 Engineering Excellence in Numbers
+## Engineering
 
 ### Image Optimization Story
 The image optimization strategy demonstrates systematic thinking applied to enterprise projects. Original assets totaled over 4MB. WebP conversion reduced this to approximately 150KB - a 97.3% size reduction without sacrificing visual quality. Users on slower connections and mobile devices experience faster loading as a direct result.
@@ -73,7 +73,7 @@ nicoschultz.com/
 
 The structure communicates intent clearly. Separation between source code and deployment assets maintains clean development workflows while supporting automated deployment pipelines.
 
-## 🤝 Showcasing Real Professional Value
+## Showcasing Professional Portfolio
 
 ### Content That Connects
 The partner organization carousels showcase relationships across sectors - healthcare institutions like Mass General and Brigham & Women's, educational partners including Harvard and MIT, enterprise clients like Four Seasons and Nous Group, government collaborations with AEMO and NSW Ports. These represent real collaborations and delivered value rather than decorative logo displays.
@@ -81,27 +81,10 @@ The partner organization carousels showcase relationships across sectors - healt
 ### Interactive Professional Timeline
 The experience section provides career progression context without overwhelming detail. Each role demonstrates increasing responsibility and measurable impact across different sectors. Visitors understand professional growth while maintaining focus on current capabilities.
 
-## 🚀 Deployment Excellence
-
-### Cloudflare Workers Configuration
-```toml
-name = "nico-schultz-site"
-main = "src/index.js"
-compatibility_date = "2024-10-01"
-
-[assets]
-directory = "./public"
-binding = "ASSETS"
-
-[observability]
-enabled = true
-head_sampling_rate = 0.1  # Strategic 10% sampling
-```
-
 ### Performance Strategy
 Observability includes 10% request sampling for insights without overwhelming analytics. Caching strategy balances aggressive static asset caching with content freshness. CDN distribution through global edge locations ensures consistent performance. Error handling provides comprehensive logging without exposing sensitive information.
 
-## 🔧 Development Workflow
+## Development
 
 ### Available Commands
 ```bash
@@ -134,7 +117,7 @@ Managing hospital systems where downtime affects patient care develops deep appr
 
 Defense-in-depth approach uses multiple security layers working together. Code security eliminates inline scripts and implements sanitized DOM manipulation. Error handling provides graceful failures without information disclosure.
 
-## 🚀 Future Evolution
+## Evolution
 
 ### Planned Enhancements
 Theme system will include dark/light mode toggle with user preference memory. Internationalization will add multi-language support for global accessibility. PWA capabilities will provide offline functionality and app-like experience. Analytics dashboard will offer enhanced visitor insights and performance metrics.
@@ -142,20 +125,20 @@ Theme system will include dark/light mode toggle with user preference memory. In
 ### Performance Roadmap
 AVIF support represents next-generation image format adoption. Service Workers will enable advanced caching and offline capabilities. Critical CSS optimization will improve above-the-fold performance. Resource hints will implement predictive loading optimization.
 
-## 👨‍💻 About the Creator
+## 👨‍💻 About Nicholas Schultz
 
 This portfolio represents Nicholas Schultz's approach to complex problem-solving: systematic, user-focused, and built to endure. Over a decade of experience managing IT transformations across healthcare, education, and enterprise sectors informs every decision. The same attention to detail and performance optimization applied to million-dollar infrastructure projects shapes this web development approach.
 
 The site functions as both professional showcase and technical capability demonstration. Great engineering serves great user experiences - a principle evident throughout the codebase and user interface decisions.
 
-## 📞 Connect and Collaborate
+## Connect and Collaborate
 
 Ready to discuss how this systematic approach to problem-solving could benefit your organization?
 
 **Nicholas Schultz**  
-Email: [ns@nicoschultz.com](mailto:ns@nicoschultz.com)  
-LinkedIn: [linkedin.com/in/nicschultz](https://linkedin.com/in/nicschultz)  
-Portfolio: [https://nico-schultz-site.ns-4ef.workers.dev](https://nico-schultz-site.ns-4ef.workers.dev)
+Email: [contact@nicoschultz.com](mailto:contact@nicoschultz.com)  
+LinkedIn: [linkedin.com/in/nicschultz](https://www.linkedin.com/in/schultznico/)] 
+Portfolio: [https://nicoschultz.com/](https://nicoschultz.com/)]
 
 ---
 
