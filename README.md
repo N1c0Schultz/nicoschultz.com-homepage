@@ -137,8 +137,8 @@ Ready to discuss how this systematic approach to problem-solving could benefit y
 
 **Nicholas Schultz**  
 Email: [contact@nicoschultz.com](mailto:contact@nicoschultz.com)  
-LinkedIn: [linkedin.com/in/nicschultz](https://www.linkedin.com/in/schultznico/)] 
-Portfolio: [https://nicoschultz.com/](https://nicoschultz.com/)]
+LinkedIn: [linkedin.com/in/nicschultz](https://www.linkedin.com/in/schultznico/) 
+Portfolio: [https://nicoschultz.com/](https://nicoschultz.com/)
 
 ---
 
