@@ -2,7 +2,7 @@
 
 This website demonstrates how thoughtful engineering and user-centered design create something both beautiful and functional. Built to represent a decade of IT leadership authentically, the site mirrors Nicholas's professional philosophy: sophisticated solutions don't need complexity.
 
-**Live Site: [https://nico-schultz-site.ns-4ef.more.dev](https://nico-schultz-site.ns-4ef.workers.dev)**
+**Live Site: [https://nicoschultz.com/](https://nicoschultz.com/)**
 
 ## Behind the Build
 
